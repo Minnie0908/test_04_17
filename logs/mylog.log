@@ -1,0 +1,142 @@
+2022-10-09 22:05:28,937 base_page.py [line:15] base_page __init__ INFO 初始化driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="e81c2aad0710f1c26efbbc3d58a11cb1")>
+2022-10-09 22:05:28,945 base_page.py [line:20] base_page open INFO 访问http://43.226.74.244/ecshop/user.php地址
+2022-10-09 22:05:29,207 base_page.py [line:25] base_page max INFO 窗口最大化
+2022-10-09 22:05:29,330 base_page.py [line:30] base_page wait INFO 设置隐式等待15秒
+2022-10-09 22:05:29,331 base_page.py [line:47] base_page input INFO 正在输入chen123内容
+2022-10-09 22:05:29,331 base_page.py [line:42] base_page locator INFO 正在定位('name', 'username')元素
+2022-10-09 22:05:29,385 base_page.py [line:47] base_page input INFO 正在输入chen123内容
+2022-10-09 22:05:29,387 base_page.py [line:42] base_page locator INFO 正在定位('name', 'password')元素
+2022-10-09 22:05:29,443 base_page.py [line:35] base_page sleep INFO 设置强制等待1秒
+2022-10-09 22:05:30,457 base_page.py [line:52] base_page click INFO 正在点击('xpath', '//input[@name="submit"]')元素
+2022-10-09 22:05:30,457 base_page.py [line:42] base_page locator INFO 正在定位('xpath', '//input[@name="submit"]')元素
+2022-10-09 22:05:30,621 base_page.py [line:35] base_page sleep INFO 设置强制等待1秒
+2022-10-09 22:05:31,628 base_page.py [line:42] base_page locator INFO 正在定位('xpath', '//p[text()="登录成功"]')元素
+2022-10-09 22:05:31,683 base_page.py [line:20] base_page open INFO 访问http://43.226.74.244/ecshop/user.php地址
+2022-10-09 22:05:31,781 base_page.py [line:25] base_page max INFO 窗口最大化
+2022-10-09 22:05:31,788 base_page.py [line:30] base_page wait INFO 设置隐式等待15秒
+2022-10-09 22:05:31,790 base_page.py [line:47] base_page input INFO 正在输入chen123内容
+2022-10-09 22:05:31,790 base_page.py [line:42] base_page locator INFO 正在定位('name', 'username')元素
+2022-10-09 22:05:31,852 base_page.py [line:47] base_page input INFO 正在输入chen1234内容
+2022-10-09 22:05:31,852 base_page.py [line:42] base_page locator INFO 正在定位('name', 'password')元素
+2022-10-09 22:05:31,917 base_page.py [line:35] base_page sleep INFO 设置强制等待1秒
+2022-10-09 22:05:32,925 base_page.py [line:52] base_page click INFO 正在点击('xpath', '//input[@name="submit"]')元素
+2022-10-09 22:05:32,925 base_page.py [line:42] base_page locator INFO 正在定位('xpath', '//input[@name="submit"]')元素
+2022-10-09 22:05:33,065 base_page.py [line:35] base_page sleep INFO 设置强制等待1秒
+2022-10-09 22:05:34,080 base_page.py [line:42] base_page locator INFO 正在定位('xpath', '//p[text()="用户名或密码错误"]')元素
+2022-10-09 22:05:34,128 base_page.py [line:20] base_page open INFO 访问http://43.226.74.244/ecshop/user.php地址
+2022-10-09 22:05:34,200 base_page.py [line:25] base_page max INFO 窗口最大化
+2022-10-09 22:05:34,203 base_page.py [line:30] base_page wait INFO 设置隐式等待15秒
+2022-10-09 22:05:34,204 base_page.py [line:47] base_page input INFO 正在输入chen1234内容
+2022-10-09 22:05:34,204 base_page.py [line:42] base_page locator INFO 正在定位('name', 'username')元素
+2022-10-09 22:05:34,266 base_page.py [line:47] base_page input INFO 正在输入chen123内容
+2022-10-09 22:05:34,266 base_page.py [line:42] base_page locator INFO 正在定位('name', 'password')元素
+2022-10-09 22:05:34,324 base_page.py [line:35] base_page sleep INFO 设置强制等待1秒
+2022-10-09 22:05:35,339 base_page.py [line:52] base_page click INFO 正在点击('xpath', '//input[@name="submit"]')元素
+2022-10-09 22:05:35,339 base_page.py [line:42] base_page locator INFO 正在定位('xpath', '//input[@name="submit"]')元素
+2022-10-09 22:05:35,465 base_page.py [line:35] base_page sleep INFO 设置强制等待1秒
+2022-10-09 22:05:36,472 base_page.py [line:42] base_page locator INFO 正在定位('xpath', '//p[text()="用户名或密码错误"]')元素
+2022-10-09 22:05:36,515 base_page.py [line:20] base_page open INFO 访问http://43.226.74.244/ecshop/user.php地址
+2022-10-09 22:05:36,601 base_page.py [line:25] base_page max INFO 窗口最大化
+2022-10-09 22:05:36,603 base_page.py [line:30] base_page wait INFO 设置隐式等待15秒
+2022-10-09 22:05:36,604 base_page.py [line:47] base_page input INFO 正在输入chen1234内容
+2022-10-09 22:05:36,604 base_page.py [line:42] base_page locator INFO 正在定位('name', 'username')元素
+2022-10-09 22:05:36,663 base_page.py [line:47] base_page input INFO 正在输入chen1234内容
+2022-10-09 22:05:36,663 base_page.py [line:42] base_page locator INFO 正在定位('name', 'password')元素
+2022-10-09 22:05:36,721 base_page.py [line:35] base_page sleep INFO 设置强制等待1秒
+2022-10-09 22:05:37,730 base_page.py [line:52] base_page click INFO 正在点击('xpath', '//input[@name="submit"]')元素
+2022-10-09 22:05:37,730 base_page.py [line:42] base_page locator INFO 正在定位('xpath', '//input[@name="submit"]')元素
+2022-10-09 22:05:37,859 base_page.py [line:35] base_page sleep INFO 设置强制等待1秒
+2022-10-09 22:05:38,873 base_page.py [line:42] base_page locator INFO 正在定位('xpath', '//p[text()="用户名或密码错误"]')元素
+2022-10-09 22:05:38,922 base_page.py [line:20] base_page open INFO 访问http://43.226.74.244/ecshop/user.php地址
+2022-10-09 22:05:39,040 base_page.py [line:25] base_page max INFO 窗口最大化
+2022-10-09 22:05:39,047 base_page.py [line:30] base_page wait INFO 设置隐式等待15秒
+2022-10-09 22:05:39,048 base_page.py [line:47] base_page input INFO 正在输入内容
+2022-10-09 22:05:39,048 base_page.py [line:42] base_page locator INFO 正在定位('name', 'username')元素
+2022-10-09 22:05:39,104 base_page.py [line:47] base_page input INFO 正在输入chen123内容
+2022-10-09 22:05:39,104 base_page.py [line:42] base_page locator INFO 正在定位('name', 'password')元素
+2022-10-09 22:05:39,170 base_page.py [line:35] base_page sleep INFO 设置强制等待1秒
+2022-10-09 22:05:40,173 base_page.py [line:52] base_page click INFO 正在点击('xpath', '//input[@name="submit"]')元素
+2022-10-09 22:05:40,173 base_page.py [line:42] base_page locator INFO 正在定位('xpath', '//input[@name="submit"]')元素
+2022-10-09 22:05:40,220 base_page.py [line:35] base_page sleep INFO 设置强制等待1秒
+2022-10-09 22:05:41,256 base_page.py [line:20] base_page open INFO 访问http://43.226.74.244/ecshop/user.php地址
+2022-10-09 22:05:41,364 base_page.py [line:25] base_page max INFO 窗口最大化
+2022-10-09 22:05:41,367 base_page.py [line:30] base_page wait INFO 设置隐式等待15秒
+2022-10-09 22:05:41,368 base_page.py [line:47] base_page input INFO 正在输入chen123内容
+2022-10-09 22:05:41,369 base_page.py [line:42] base_page locator INFO 正在定位('name', 'username')元素
+2022-10-09 22:05:41,423 base_page.py [line:47] base_page input INFO 正在输入内容
+2022-10-09 22:05:41,423 base_page.py [line:42] base_page locator INFO 正在定位('name', 'password')元素
+2022-10-09 22:05:41,472 base_page.py [line:35] base_page sleep INFO 设置强制等待1秒
+2022-10-09 22:05:42,477 base_page.py [line:52] base_page click INFO 正在点击('xpath', '//input[@name="submit"]')元素
+2022-10-09 22:05:42,477 base_page.py [line:42] base_page locator INFO 正在定位('xpath', '//input[@name="submit"]')元素
+2022-10-09 22:05:42,524 base_page.py [line:35] base_page sleep INFO 设置强制等待1秒
+2022-10-09 22:06:52,862 base_page.py [line:15] base_page __init__ INFO 初始化driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="736bca28527151d2ab120b89545dcba8")>
+2022-10-09 22:06:52,867 base_page.py [line:20] base_page open INFO 访问http://43.226.74.244/ecshop/user.php地址
+2022-10-09 22:06:53,154 base_page.py [line:25] base_page max INFO 窗口最大化
+2022-10-09 22:06:53,296 base_page.py [line:30] base_page wait INFO 设置隐式等待15秒
+2022-10-09 22:06:53,297 base_page.py [line:47] base_page input INFO 正在输入chen123内容
+2022-10-09 22:06:53,297 base_page.py [line:42] base_page locator INFO 正在定位('name', 'username')元素
+2022-10-09 22:06:53,383 base_page.py [line:47] base_page input INFO 正在输入chen123内容
+2022-10-09 22:06:53,383 base_page.py [line:42] base_page locator INFO 正在定位('name', 'password')元素
+2022-10-09 22:06:53,453 base_page.py [line:35] base_page sleep INFO 设置强制等待1秒
+2022-10-09 22:06:54,457 base_page.py [line:52] base_page click INFO 正在点击('xpath', '//input[@name="submit"]')元素
+2022-10-09 22:06:54,457 base_page.py [line:42] base_page locator INFO 正在定位('xpath', '//input[@name="submit"]')元素
+2022-10-09 22:06:54,635 base_page.py [line:35] base_page sleep INFO 设置强制等待1秒
+2022-10-09 22:06:55,636 base_page.py [line:42] base_page locator INFO 正在定位('xpath', '//p[text()="登录成功"]')元素
+2022-10-09 22:06:55,701 base_page.py [line:20] base_page open INFO 访问http://43.226.74.244/ecshop/user.php地址
+2022-10-09 22:06:55,818 base_page.py [line:25] base_page max INFO 窗口最大化
+2022-10-09 22:06:55,821 base_page.py [line:30] base_page wait INFO 设置隐式等待15秒
+2022-10-09 22:06:55,822 base_page.py [line:47] base_page input INFO 正在输入chen123内容
+2022-10-09 22:06:55,822 base_page.py [line:42] base_page locator INFO 正在定位('name', 'username')元素
+2022-10-09 22:06:55,900 base_page.py [line:47] base_page input INFO 正在输入chen1234内容
+2022-10-09 22:06:55,900 base_page.py [line:42] base_page locator INFO 正在定位('name', 'password')元素
+2022-10-09 22:06:55,974 base_page.py [line:35] base_page sleep INFO 设置强制等待1秒
+2022-10-09 22:06:56,983 base_page.py [line:52] base_page click INFO 正在点击('xpath', '//input[@name="submit"]')元素
+2022-10-09 22:06:56,983 base_page.py [line:42] base_page locator INFO 正在定位('xpath', '//input[@name="submit"]')元素
+2022-10-09 22:06:57,100 base_page.py [line:35] base_page sleep INFO 设置强制等待1秒
+2022-10-09 22:06:58,102 base_page.py [line:42] base_page locator INFO 正在定位('xpath', '//p[text()="用户名或密码错误"]')元素
+2022-10-09 22:06:58,151 base_page.py [line:20] base_page open INFO 访问http://43.226.74.244/ecshop/user.php地址
+2022-10-09 22:06:58,262 base_page.py [line:25] base_page max INFO 窗口最大化
+2022-10-09 22:06:58,266 base_page.py [line:30] base_page wait INFO 设置隐式等待15秒
+2022-10-09 22:06:58,268 base_page.py [line:47] base_page input INFO 正在输入chen1234内容
+2022-10-09 22:06:58,268 base_page.py [line:42] base_page locator INFO 正在定位('name', 'username')元素
+2022-10-09 22:06:58,343 base_page.py [line:47] base_page input INFO 正在输入chen123内容
+2022-10-09 22:06:58,344 base_page.py [line:42] base_page locator INFO 正在定位('name', 'password')元素
+2022-10-09 22:06:58,418 base_page.py [line:35] base_page sleep INFO 设置强制等待1秒
+2022-10-09 22:06:59,432 base_page.py [line:52] base_page click INFO 正在点击('xpath', '//input[@name="submit"]')元素
+2022-10-09 22:06:59,432 base_page.py [line:42] base_page locator INFO 正在定位('xpath', '//input[@name="submit"]')元素
+2022-10-09 22:06:59,549 base_page.py [line:35] base_page sleep INFO 设置强制等待1秒
+2022-10-09 22:07:00,563 base_page.py [line:42] base_page locator INFO 正在定位('xpath', '//p[text()="用户名或密码错误"]')元素
+2022-10-09 22:07:00,610 base_page.py [line:20] base_page open INFO 访问http://43.226.74.244/ecshop/user.php地址
+2022-10-09 22:07:00,714 base_page.py [line:25] base_page max INFO 窗口最大化
+2022-10-09 22:07:00,719 base_page.py [line:30] base_page wait INFO 设置隐式等待15秒
+2022-10-09 22:07:00,720 base_page.py [line:47] base_page input INFO 正在输入chen1234内容
+2022-10-09 22:07:00,720 base_page.py [line:42] base_page locator INFO 正在定位('name', 'username')元素
+2022-10-09 22:07:00,804 base_page.py [line:47] base_page input INFO 正在输入chen1234内容
+2022-10-09 22:07:00,804 base_page.py [line:42] base_page locator INFO 正在定位('name', 'password')元素
+2022-10-09 22:07:00,877 base_page.py [line:35] base_page sleep INFO 设置强制等待1秒
+2022-10-09 22:07:01,890 base_page.py [line:52] base_page click INFO 正在点击('xpath', '//input[@name="submit"]')元素
+2022-10-09 22:07:01,890 base_page.py [line:42] base_page locator INFO 正在定位('xpath', '//input[@name="submit"]')元素
+2022-10-09 22:07:02,071 base_page.py [line:35] base_page sleep INFO 设置强制等待1秒
+2022-10-09 22:07:03,078 base_page.py [line:42] base_page locator INFO 正在定位('xpath', '//p[text()="用户名或密码错误"]')元素
+2022-10-09 22:07:03,124 base_page.py [line:20] base_page open INFO 访问http://43.226.74.244/ecshop/user.php地址
+2022-10-09 22:07:03,219 base_page.py [line:25] base_page max INFO 窗口最大化
+2022-10-09 22:07:03,225 base_page.py [line:30] base_page wait INFO 设置隐式等待15秒
+2022-10-09 22:07:03,226 base_page.py [line:47] base_page input INFO 正在输入内容
+2022-10-09 22:07:03,226 base_page.py [line:42] base_page locator INFO 正在定位('name', 'username')元素
+2022-10-09 22:07:03,280 base_page.py [line:47] base_page input INFO 正在输入chen123内容
+2022-10-09 22:07:03,281 base_page.py [line:42] base_page locator INFO 正在定位('name', 'password')元素
+2022-10-09 22:07:03,361 base_page.py [line:35] base_page sleep INFO 设置强制等待1秒
+2022-10-09 22:07:04,367 base_page.py [line:52] base_page click INFO 正在点击('xpath', '//input[@name="submit"]')元素
+2022-10-09 22:07:04,367 base_page.py [line:42] base_page locator INFO 正在定位('xpath', '//input[@name="submit"]')元素
+2022-10-09 22:07:04,414 base_page.py [line:35] base_page sleep INFO 设置强制等待1秒
+2022-10-09 22:07:05,458 base_page.py [line:20] base_page open INFO 访问http://43.226.74.244/ecshop/user.php地址
+2022-10-09 22:07:05,560 base_page.py [line:25] base_page max INFO 窗口最大化
+2022-10-09 22:07:05,563 base_page.py [line:30] base_page wait INFO 设置隐式等待15秒
+2022-10-09 22:07:05,564 base_page.py [line:47] base_page input INFO 正在输入chen123内容
+2022-10-09 22:07:05,564 base_page.py [line:42] base_page locator INFO 正在定位('name', 'username')元素
+2022-10-09 22:07:05,635 base_page.py [line:47] base_page input INFO 正在输入内容
+2022-10-09 22:07:05,635 base_page.py [line:42] base_page locator INFO 正在定位('name', 'password')元素
+2022-10-09 22:07:05,691 base_page.py [line:35] base_page sleep INFO 设置强制等待1秒
+2022-10-09 22:07:06,701 base_page.py [line:52] base_page click INFO 正在点击('xpath', '//input[@name="submit"]')元素
+2022-10-09 22:07:06,701 base_page.py [line:42] base_page locator INFO 正在定位('xpath', '//input[@name="submit"]')元素
+2022-10-09 22:07:06,746 base_page.py [line:35] base_page sleep INFO 设置强制等待1秒
